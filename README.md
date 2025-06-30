@@ -11,7 +11,7 @@ git clone https://gitee.com/huyi612/hm-dianping.git
 ```git
 git checkout init
 ```
-
+add sth....
 ## 2.常见问题
 部分同学直接使用了master分支项目来启动，控制台会一直报错:
 ```
