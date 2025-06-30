@@ -23,3 +23,4 @@ XGROUP CREATE stream.orders g1 $ MKSTREAM
 ```
 test
 test2
+test3
