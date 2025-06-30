@@ -11,7 +11,7 @@ git clone https://gitee.com/huyi612/hm-dianping.git
 ```git
 git checkout init
 ```
-conflict
+add sth....
 ## 2.常见问题 fix
 部分同学直接使用了master分支项目来启动，控制台会一直报错:
 ```
@@ -24,3 +24,4 @@ XGROUP CREATE stream.orders g1 $ MKSTREAM
 test
 test2
 test3
+add1
