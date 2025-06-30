@@ -12,7 +12,7 @@ git clone https://gitee.com/huyi612/hm-dianping.git
 git checkout init
 ```
 conflict
-## 2.常见问题
+## 2.常见问题 fix
 部分同学直接使用了master分支项目来启动，控制台会一直报错:
 ```
 NOGROUP No such key 'stream.orders' or consumer group 'g1' in XREADGROUP with GROUP option
